@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+.navbar{
+  display: inline-block;
+  list-style: none;
+  font-size: 20px;
+  width: 100%;
+}
+ul{
+  list-style: none;
+}
+span{
+  color: green;
+  font-family:sans-serif;
+}
+h1{
+  font-size: 60px;
+}
+.newsBox{
+  margin-left: 10rem;
+  margin-right: 10rem;
+  text-indent: 25px;
+}
+.source{
+  text-align: right;
+  font-weight: bold;
+}
+.headline{
+  text-align: center;
+  text-decoration: underline;
+
+}
+.title{
+  margin-top: 10rem;
+  font-family: 'Vollkorn SC', serif;
+}
+.company{
+  font-size: 20px;
+  font-weight: bold;
+}
+.infoBox{
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin-top: 6rem;
+  margin-right: 60rem;
+  padding-right: 2rem;
+}
+.bull{
+  height: 350px;
+  width: 375px;
+  border-radius: 3%;
+  position: absolute;
+  right: 175px;
+  bottom: 75px;
+}
+.table{
+  margin-top: 12rem;
+  height: 200px;
+  width: 750px;
+}
+.SignupBox {
+  background: lightgrey;
+}
+.LoginBox {
+  background: lightgrey;
+}
